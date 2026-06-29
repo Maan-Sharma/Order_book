@@ -1,2 +1,22 @@
-*.exe
+# Visual Studio Code
 .vscode/
+
+# Executables
+*.exe
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Logs
+*.log
